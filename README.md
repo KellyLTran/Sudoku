@@ -1,3 +1,4 @@
+The UF CISE department provided this readme file, resources, and the objectives for this project. 
 # Sudoku-Project
 
 ## Fork Repository Instructions
